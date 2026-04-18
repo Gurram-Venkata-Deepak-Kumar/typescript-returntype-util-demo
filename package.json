@@ -1,0 +1,25 @@
+{
+  "name": "typescript-returntype-util-demo",
+  "version": "1.0.0",
+  "description": "Simple examples explaining TypeScript Return Type utility with beginner-friendly code. Learn how to extract function return type, handle async cases, and avoid manual type definitions. Help you write cleaner, safer, and more maintainable TypeScript code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurram-Venkata-Deepak-Kumar/typescript-returntype-util-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gurram-Venkata-Deepak-Kumar/typescript-returntype-util-demo/issues"
+  },
+  "homepage": "https://github.com/Gurram-Venkata-Deepak-Kumar/typescript-returntype-util-demo#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
